@@ -10,7 +10,6 @@ This repository contains a comprehensive **simulation of Syllable OS internals**
 - [Implemented Modules](#implemented-modules)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Team Members](#team-members)
 - [How to Run](#how-to-run)
 - [License](#license)
 
@@ -115,10 +114,7 @@ In the second phase of the project, we focused on simulating the core internal f
 
 ---
 
-## 👨‍💻 Work By: 
-- **Sanjith Ganesa P**
 
----
 
 ## ▶️ How to Run
 
